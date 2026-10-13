@@ -1,0 +1,6 @@
+machine_id,machine_type,supported_device_types,machine_priority
+M01,SMT-1,A;B;C,0.89
+M02,SMT-2,A;B,0.83
+M03,SMT-1,A;B;C,1.0
+M04,SMT-2,A;B;C,1.02
+M05,SMT-1,A;B,0.8
